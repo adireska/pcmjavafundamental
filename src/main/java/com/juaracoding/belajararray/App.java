@@ -2,21 +2,21 @@ package com.juaracoding.belajararray;
 
 public class App {
     public static void main(String[] args) {
-        Motor motor = new Motor("Honda Supra X");
-        Kendaraan kapalFeri = new KapalLaut("Kapal Feri");
-        Pesawat garuda = new Pesawat("Garuda Boing Banget");
-        Kendaraan sepeda = new Sepeda("Ontel");
+      Kendaraan[] kendaraans = new Kendaraan[4];
+      kendaraans[0] = new Motor("Honda Supra X");
+      kendaraans[1] = new KapalLaut("Kapal Feri");
+      kendaraans[2] = new Pesawat("Garuda");
+      kendaraans[3] = new Sepeda("Ontel");
 
-        motor.jalan();
-        motor.startEngine();
-        motor.stopEngine();
-        garuda.startEngine();
-        garuda.stopEngine();
-        kapalFeri.jalan();
-        garuda.jalan();
-
-        sepeda.startEngine();
-
+      for (Kendaraan kendaraan : kendaraans) {
+         try {
+            kendaraan.startEngine();
+            kendaraan.jalan();
+            kendaraan.stopEngine();
+         } catch (UnsupportedOperationException e) {
+            continue;
+         }
+      }
         
     }
 }
