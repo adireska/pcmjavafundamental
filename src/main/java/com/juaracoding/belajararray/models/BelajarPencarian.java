@@ -1,4 +1,4 @@
-package com.juaracoding.belajararray;
+package com.juaracoding.belajararray.models;
 
 public class BelajarPencarian {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.juaracoding.belajararray;
+package com.juaracoding.belajararray.models;
 
 import java.util.Arrays;
 

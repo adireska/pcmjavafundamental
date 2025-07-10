@@ -26,7 +26,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.3.0</version>
         <configuration>
-          <mainClass>com.juaracoding.belajararray.BelajarPencarian</mainClass>
+          <mainClass>com.juaracoding.belajararray.models.App</mainClass>
           <arguments>
             <argument>First</argument>
             <argument>Second</argument>
