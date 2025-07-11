@@ -1,7 +1,4 @@
 C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\App.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\IMesin.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\KapalLaut.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\Kendaraan.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\Motor.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\Pesawat.java
-C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\Sepeda.java
+C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\models\Cart.java
+C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\models\Product.java
+C:\Users\adire\BelajarArray\src\main\java\com\juaracoding\belajararray\models\ProductException.java

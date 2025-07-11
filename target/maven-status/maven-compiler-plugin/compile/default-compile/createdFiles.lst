@@ -1,7 +1,4 @@
-com\juaracoding\belajararray\Kendaraan.class
-com\juaracoding\belajararray\Sepeda.class
-com\juaracoding\belajararray\KapalLaut.class
 com\juaracoding\belajararray\App.class
-com\juaracoding\belajararray\Pesawat.class
-com\juaracoding\belajararray\IMesin.class
-com\juaracoding\belajararray\Motor.class
+com\juaracoding\belajararray\models\ProductException.class
+com\juaracoding\belajararray\models\Cart.class
+com\juaracoding\belajararray\models\Product.class
